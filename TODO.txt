@@ -2,5 +2,6 @@
 ❌ - Add decoding diagram
 ❌ - Add an adequite description
 ❌ - Very Basic demo (No file writing, B&W, shows only the output, estimate file size,
+❌ - Make the code quality better for the demo
 ❌ - V0.1 B&W only, file writing, simple python library
 ❌ - V0.2 Color added to library
